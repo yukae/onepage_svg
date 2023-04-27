@@ -1,1 +1,1 @@
-![alt text](/images/名片.jpg)
+![alt text](/images/test.jpg)
